@@ -6,5 +6,6 @@
   {"name": "创享影视", "url": "https://ys.cxkjg.cn/api/provide/tvbox"},
   {"name": "挺好分享多仓", "url": "http://ztha.top/TVBox/GYCK.json"},
   {"name": "嗷呜", "url": "http://itv666.cc/aowu/config.webp"}
- ]
+  {"name": "国内直播", "url": "https://raw.githubusercontent.com/52liulian/IPTV/refs/heads/main/live.m3u"}
+]
 }
